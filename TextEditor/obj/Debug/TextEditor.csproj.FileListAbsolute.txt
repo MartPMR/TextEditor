@@ -1,0 +1,11 @@
+C:\Users\Win10Pro\Desktop\TextEditor-master\TextEditor\obj\Debug\TextEditor.csprojAssemblyReference.cache
+C:\Users\Win10Pro\Desktop\TextEditor-master\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\Win10Pro\Desktop\TextEditor-master\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\Win10Pro\Desktop\TextEditor-master\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\Win10Pro\Desktop\TextEditor-master\TextEditor\obj\Debug\TextEditor.AboutWindow.resources
+C:\Users\Win10Pro\Desktop\TextEditor-master\TextEditor\obj\Debug\TextEditor.HelpWindow.resources
+C:\Users\Win10Pro\Desktop\TextEditor-master\TextEditor\obj\Debug\TextEditor.MainWindow.resources
+C:\Users\Win10Pro\Desktop\TextEditor-master\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\Win10Pro\Desktop\TextEditor-master\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\Win10Pro\Desktop\TextEditor-master\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\Win10Pro\Desktop\TextEditor-master\TextEditor\obj\Debug\TextEditor.pdb
